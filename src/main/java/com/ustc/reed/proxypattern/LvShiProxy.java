@@ -5,6 +5,5 @@ public class LvShiProxy implements ZiRanRen {
     public void quanli() {
         Reed reed = new Reed();
         reed.quanli();
-
     }
 }
